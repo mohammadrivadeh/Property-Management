@@ -162,7 +162,7 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.label8.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label8.Location = new System.Drawing.Point(23, 84);
+            this.label8.Location = new System.Drawing.Point(37, 262);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(351, 21);
             this.label8.TabIndex = 10;
@@ -174,7 +174,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.label7.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label7.Location = new System.Drawing.Point(28, 118);
+            this.label7.Location = new System.Drawing.Point(42, 296);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(214, 21);
             this.label7.TabIndex = 9;
@@ -186,7 +186,7 @@
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Tahoma", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(178)));
             this.label6.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label6.Location = new System.Drawing.Point(28, 46);
+            this.label6.Location = new System.Drawing.Point(42, 224);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(326, 21);
             this.label6.TabIndex = 8;
