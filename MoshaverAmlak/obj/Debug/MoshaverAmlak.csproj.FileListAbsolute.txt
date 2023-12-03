@@ -1,0 +1,406 @@
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.exe.config
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.exe.manifest
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.application
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.exe
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.pdb
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.LogInForm.resources
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.Main.resources
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.SplashScreen.resources
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.exe.manifest
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.application
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.exe
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.pdb
+C:\Users\Administrator\Desktop\Projects on progress\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.csprojAssemblyReference.cache
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.AssemblyReference.cache
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.Main.resources
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.Properties.Resources.resources
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.SplashScreen.resources
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.GenerateResource.cache
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.CoreCompileInputs.cache
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.exe
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.pdb
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.exe.config
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.exe.manifest
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.application
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.exe
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\MoshaverAmlak.pdb
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Bcl.HashCode.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.SqlClient.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.Sqlite.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Options.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Identity.Client.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Logging.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Newtonsoft.Json.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\SQLitePCLRaw.core.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Buffers.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Collections.Immutable.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.ComponentModel.Annotations.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Memory.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Numerics.Vectors.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Bunifu_UI_v1.5.3.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Bcl.HashCode.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.SqlClient.pdb
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.SqlClient.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Data.Sqlite.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Options.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.Identity.Client.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Logging.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\Newtonsoft.Json.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Buffers.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Collections.Immutable.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Memory.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Numerics.Vectors.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.exe.manifest
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.application
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.CopyComplete
+G:\My Project\MoshaverAmlak\MoshaverAmlak\obj\Debug\MoshaverAmlak.AboutForm.resources
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\MoshaverAmlak.exe.config
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\MoshaverAmlak.exe.manifest
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\MoshaverAmlak.application
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\MoshaverAmlak.exe
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\MoshaverAmlak.pdb
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.AboutForm.resources
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.Main.resources
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.SplashScreen.resources
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.exe.manifest
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.application
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.exe
+C:\Users\Administrator\Desktop\Projects\Property Management\MoshaverAmlak\obj\Debug\MoshaverAmlak.pdb

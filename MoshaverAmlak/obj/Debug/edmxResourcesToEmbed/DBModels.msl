@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AmlakDBModelStoreContainer" CdmEntityContainer="DBEntities">
+    <EntitySetMapping Name="Properties">
+      <EntityTypeMapping TypeName="AmlakDBModel.Property">
+        <MappingFragment StoreEntitySet="Property">
+          <ScalarProperty Name="PropertyID" ColumnName="PropertyID" />
+          <ScalarProperty Name="Seller" ColumnName="Seller" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="Floor" ColumnName="Floor" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="SellerMobile" ColumnName="SellerMobile" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="PropertyType" ColumnName="PropertyType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SoldedProperties">
+      <EntityTypeMapping TypeName="AmlakDBModel.SoldedProperty">
+        <MappingFragment StoreEntitySet="SoldedProperty">
+          <ScalarProperty Name="PropertyID" ColumnName="PropertyID" />
+          <ScalarProperty Name="Seller" ColumnName="Seller" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="Floor" ColumnName="Floor" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="SellerMobile" ColumnName="SellerMobile" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="PropertyType" ColumnName="PropertyType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="AmlakDBModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="PropertyAccess" ColumnName="PropertyAccess" />
+          <ScalarProperty Name="PropertyListAccess" ColumnName="PropertyListAccess" />
+          <ScalarProperty Name="ContractAccess" ColumnName="ContractAccess" />
+          <ScalarProperty Name="SoldedAccess" ColumnName="SoldedAccess" />
+          <ScalarProperty Name="UserMangementAccess" ColumnName="UserMangementAccess" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
